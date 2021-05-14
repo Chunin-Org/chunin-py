@@ -2,7 +2,37 @@
 name = "chunin"
 version = "0.0.1"
 description = "Checks Union"
+licence = "MIT"
 authors = ["Oleh Mazur <real.trolforever@gmail.com>"]
+readme = "README.md"
+homepage = "https://github.com/Four-Velocity/chunin"
+repository = "https://github.com/Four-Velocity/chunin"
+documentation = "https://chunin.four-velocity.codes"
+keywords = ["linter", "formatter", "quality"]
+classifiers = [
+    "Development Status :: 1 - Planning",
+    "Environment :: Console",
+    "Intended Audience :: Developers",
+    "Intended Audience :: Information Technology",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3 :: Only",
+    "Programming Language :: Python :: 3.6",
+    "Programming Language :: Python :: 3.7",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Topic :: Software Development",
+    "Topic :: Software Development :: Bug Tracking",
+    "Topic :: Software Development :: Libraries",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+    "Topic :: Software Development :: Quality Assurance",
+    "Topic :: Software Development :: Testing",
+    "Topic :: Utilities",
+    "Typing :: Typed"
+]
 
 [tool.poetry.dependencies]
 python = "^3.6"
