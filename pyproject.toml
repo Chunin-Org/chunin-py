@@ -2,7 +2,7 @@
 name = "chunin"
 version = "0.0.1"
 description = "Checks Union"
-licence = "MIT"
+license = "MIT"
 authors = ["Oleh Mazur <real.trolforever@gmail.com>"]
 readme = "README.md"
 homepage = "https://github.com/Four-Velocity/chunin"
