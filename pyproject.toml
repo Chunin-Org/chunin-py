@@ -2,7 +2,7 @@
 name = "chunin"
 version = "0.0.1"
 description = "Checks Union"
-license = "MIT"
+license = "LGPL-3.0-only"
 authors = ["Oleh Mazur <real.trolforever@gmail.com>"]
 readme = "README.md"
 homepage = "https://github.com/Four-Velocity/chunin"
@@ -14,7 +14,7 @@ classifiers = [
     "Environment :: Console",
     "Intended Audience :: Developers",
     "Intended Audience :: Information Technology",
-    "License :: OSI Approved :: MIT License",
+    "License :: OSI Approved :: GNU Lesser General Public License v3 (LGPLv3)",
     "Operating System :: OS Independent",
     "Programming Language :: Python",
     "Programming Language :: Python :: 3",
